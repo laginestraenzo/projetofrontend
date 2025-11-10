@@ -12,4 +12,4 @@
 2. Abra o arquivo `index.html` no navegador  
 
 ## 👨‍💻 Autor
-Feito por **[Seu Nome](https://github.com/laginestraenzo)**.
+Feito por **[Enzo Laginestra](https://github.com/laginestraenzo)**.
