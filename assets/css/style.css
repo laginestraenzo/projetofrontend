@@ -12,7 +12,7 @@ body {
     }
     .skill-bar {
       height: 10px;
-      border-radius: 5px;
+      border-radius: 6px;
       background-color: #e9ecef;
       margin-top: 5px;
     }
