@@ -1,6 +1,6 @@
 # Sobre meu Projeto:
 
-É uma One Page sobre meu currículo que desenvolvi durante o curso de Desenvolvimento de Sistemas
+É uma One Page sobre meu currículo, com conhecimentos que desenvolvi durante o curso de Desenvolvimento de Sistemas que realizei no Senai Jairo Candido
 
 ## 🛠️ Tecnologias usadas
 - HTML  
